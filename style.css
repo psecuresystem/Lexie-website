@@ -184,6 +184,7 @@ button.primary{
     box-shadow: none;
     margin-top: 4vh;
     background-color: #fff;
+    color: #000;
 }
 button.primary:hover{
     padding: 1em;
