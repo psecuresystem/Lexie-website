@@ -168,6 +168,7 @@ button{
     box-shadow: none;
     border: none;
     margin-top: 4vh;
+    color: #fff;
 }
 button:hover{
     background-color: #6a69c4;
@@ -182,13 +183,14 @@ button.primary{
     border: 1px solid #71709a;
     box-shadow: none;
     margin-top: 4vh;
-    background-color: white;
+    background-color: #fff;
 }
 button.primary:hover{
     padding: 1em;
     background-color: #71709a;
     box-shadow: none;
     margin-top: 4vh;
+    color: #fff;
 }
 .social_media{
     display: flex;
